@@ -1,0 +1,4 @@
+joblib
+scikit-learn
+streamlit
+streamlit_antd_components
