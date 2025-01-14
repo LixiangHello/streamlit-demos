@@ -14,4 +14,6 @@
 ## 🕊️ 有啥问题欢迎 issue
 
 
+## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=LixiangHello/streamlit-demos&type=Date)](https://star-history.com/#LixiangHello/streamlit-demos&Date)
