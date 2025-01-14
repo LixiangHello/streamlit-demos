@@ -8,7 +8,7 @@
 
 | 项目名称                             | 项目截图                                                                             | 项目介绍                                                                            |
 | ------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| [demo1](/src/demo1/)                 | ![预览1](/src/demo1/assets/s1.png) ![预览2](/src/demo1/assets/s2.png)                | 梦幻端游用户潜力预测系统                                                            |
-| [RMBG2.0-demo2](/src/RMBG-2.0-demo/) | ![预览](/src/RMBG-2.0-demo/assets/s1.png) ![预览2](/src/RMBG-2.0-demo/assets/s2.png) | [modelscope 试用](https://www.modelscope.cn/studios/Lixiang/RMBG-2.0)，效果非常炸裂 |
+| [demo1](/src/demo1/)                 |<div style="display: flex; flex-wrap: wrap; gap: 10px;"><img src="/src/demo1/assets/s1.png" alt="图片1" width="200"/><img src="/src/demo1/assets/s2.png" alt="图片2" width="200"/></div>| 梦幻端游用户潜力预测系统|
+| [RMBG2.0-demo2](/src/RMBG-2.0-demo/) |<div style="display: flex; flex-wrap: wrap; gap: 10px;"><img src="/src/RMBG-2.0-demo/assets/s1.png" alt="图片1" width="200"/><img src="/src/RMBG-2.0-demo/assets/s2.png" alt="图片2" width="200"/></div>| [modelscope 试用](https://www.modelscope.cn/studios/Lixiang/RMBG-2.0)，效果非常炸裂 |
 
 ## 🕊️有啥问题欢迎 issue
